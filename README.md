@@ -11,7 +11,7 @@ computer generated watercolor, Real-time simulation of watery paint, stable flui
 
 km model 사용해서 수채화 시뮬레이션 시작...
 
-<img src="https://github.com/jong1-choi/WaterColorSimulation/blob/main/demo.gif" width="500" height="500">
+<img src="https://github.com/jong1-choi/WaterColorSimulation/blob/main/demo.gif" width="500" height="400">
 
 boundary condition이 제대로 적용되지 않아 blooming 같은 효과들이 제대로 나타나지 않고 conservation이 되지 않아
 찾아보던중 'Compact Poisson Filters for Fast Fluid Simulation' 논문에서 iteration 자체를 poisson filter로 해결하고
