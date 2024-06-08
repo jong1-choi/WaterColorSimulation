@@ -13,7 +13,7 @@ km model 사용해서 수채화 시뮬레이션 시작...
 
 <img src="https://github.com/jong1-choi/WaterColorSimulation/blob/main/Images/demo.gif" width="500" height="400">
 
-구현 방법에 대한 간단한 설명
+### 구현 방법
 
 먼저 종이 위의 물과 염료의 이동은 3개의 층을 통해 진행되는데 물과 염료가 이동하는 fluid layer, 염료들이 종이에 부착되고 탈착되는 과정을 반복하는 surface layer, 마지막으로 종이가 물을 흡수하고 퍼져나가는 과정을 나타내는 capillary layer로 구성됩니다.
 
