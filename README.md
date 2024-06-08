@@ -5,13 +5,13 @@ computer generated watercolor, Real-time simulation of watery paint, stable flui
 처음에는 Kubelka Munk model만 구현해보려고 시작
 
 아래는 Kubelka Munk model 결과들
-<img src="https://github.com/jong1-choi/WaterColorSimulation/blob/main/km1.png">
-<img src="https://github.com/jong1-choi/WaterColorSimulation/blob/main/km2.png">
-<img src="https://github.com/jong1-choi/WaterColorSimulation/blob/main/km3.png">
+<img src="https://github.com/jong1-choi/WaterColorSimulation/blob/main/Images/km1.png">
+<img src="https://github.com/jong1-choi/WaterColorSimulation/blob/main/Images/km2.png">
+<img src="https://github.com/jong1-choi/WaterColorSimulation/blob/main/Images/km3.png">
 
 km model 사용해서 수채화 시뮬레이션 시작...
 
-<img src="https://github.com/jong1-choi/WaterColorSimulation/blob/main/demo.gif" width="500" height="400">
+<img src="https://github.com/jong1-choi/WaterColorSimulation/blob/main/Images/demo.gif" width="500" height="400">
 먼저 종이 위의 물과 염료의 이동은 3개의 층을 통해 진행되는데 물과 염료가 이동하는 fluid layer, 염료들이 종이에 부착되고 탈착되는 과정을 반복하는 surface layer, 마지막으로 종이가 물을 흡수하고 퍼져나가는 과정을 나타내는 capillary layer로 구성됩니다.
 
 ![스크린샷 2024-06-08 오후 9.53.33.png](watercolor%20simulation%207dd0b9353d1e4b2cb9921764089f81a8/%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-06-08_%25EC%2598%25A4%25ED%259B%2584_9.53.33.png)
