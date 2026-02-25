@@ -14,36 +14,10 @@ https://github.com/jong1-choi/WaterColorSimulation/raw/main/Images/watercolor.mp
 ## 빌드 & 실행 (Quick Start)
 
 ### 요구 사항
-- **Visual Studio 2019 or later** (Community 무료)
+- **Visual Studio 2019 or later**
   - "Desktop development with C++" 워크로드 설치 필요
 - 그 외 의존성(GLEW, GLFW, GLM, Dear ImGui)은 모두 레포에 포함 — 별도 설치 불필요
 
-### 단계별 설정
-
-**1. 레포 클론**
-```bat
-git clone https://github.com/jong1-choi/WaterColorSimulation.git
-cd WaterColorSimulation
-```
-
-**2. 솔루션 열기**
-`WaterColorSimulation.sln`을 Visual Studio로 열기
-
-**3. 구성 선택**
-상단 툴바에서 `Debug` 또는 `Release` / `x64` 선택
-
-> ⚠️ **반드시 x64** — x86(Win32)은 지원하지 않음
-
-**4. 빌드**
-`Ctrl+Shift+B` 또는 메뉴 → 빌드 → 솔루션 빌드
-
-**5. 실행**
-- **Visual Studio에서 직접 실행** (`F5` 또는 `Ctrl+F5`): 워킹 디렉터리가 자동으로 솔루션 루트로 설정됨
-- **명령줄에서 실행**: 반드시 레포 루트에서 실행해야 `res/` 셰이더를 찾음
-  ```bat
-  cd /d <레포 루트 경로>
-  bin\Debug\WaterColorSimulation.exe
-  ```
 
 ### 조작법
 | 입력 | 동작 |
@@ -52,7 +26,6 @@ cd WaterColorSimulation
 | Space | 시뮬레이션 켜기/끄기 |
 | 0 | 캔버스 초기화 |
 | 1–8 | 표시 모드 전환 |
-| 9 | French Ultramarine으로 안료 변경 |
 | ↑/↓ | 브러시 반경 +/- |
 
 ---
