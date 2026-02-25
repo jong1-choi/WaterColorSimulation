@@ -1,6 +1,6 @@
 # WaterColor Simulation
 
-https://github.com/jong1-choi/WaterColorSimulation/raw/main/Images/watercolor.mp4
+<video src="https://github.com/jong1-choi/WaterColorSimulation/raw/main/Images/watercolor.mp4" controls width="800"></video>
 
 실시간 물리 기반 수채화 유체 시뮬레이션 — **Windows (Visual Studio 2019+)**, **GLEW + GLFW + Dear ImGui**
 
