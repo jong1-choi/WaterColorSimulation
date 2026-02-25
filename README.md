@@ -1,13 +1,11 @@
 # WaterColor Simulation
 
-[<img src="https://github.com/jong1-choi/WaterColorSimulation/blob/main/Images/demo_new.gif" width="640">](https://github.com/jong1-choi/WaterColorSimulation/raw/main/Images/watercolor.mp4)
+https://github.com/jong1-choi/WaterColorSimulation/raw/main/Images/watercolor.mp4
 
 실시간 물리 기반 수채화 유체 시뮬레이션 — **Windows (Visual Studio 2019+)**, **GLEW + GLFW + Dear ImGui**
 
 > Based on *"A Physically Based Model of Watercolour"* — Curtis, Anderson, Seims, Fleischer, Salesin (SIGGRAPH 1997)
 > Improved with techniques from *"Real-time simulation of watery paint"* — Van Laerhoven (2004)
-
-<img src="https://github.com/jong1-choi/WaterColorSimulation/blob/main/Images/demo.gif" width="500" height="400">
 
 ---
 
