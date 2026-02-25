@@ -1,0 +1,27 @@
+# Visual Studio 빌드 결과물
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.db
+*.opendb
+
+# 임시 파일
+build_output.txt
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Xcode (레거시)
+*.xcodeproj/
+*.xcworkspace/
+
+# 내부 문서
+REFACTORING_GUIDE.md
+imgui.ini
